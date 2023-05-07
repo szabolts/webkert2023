@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "dombfutas": {
+      "hosting": {
+        "beadando": [
+          "dombfutas"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "dombfutas"
+  }
+}
